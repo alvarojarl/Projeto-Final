@@ -1,0 +1,16 @@
+{
+    "name": "alvaro/projetofinal",
+    "description": "projeto",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alvaro Luis",
+            "email": "alvaro.13455@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.3@dev"
+    }
+}
